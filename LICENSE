@@ -1,21 +1,25 @@
-MIT License
+██████  ██    ██  ██████ ████████
+██   ██ ██    ██ ██         ██    
+██████  ██    ██  █████     ██     
+██   ██ ██    ██      ██    ██     
+██   ██  ██████  ██████     ██        
 
-Copyright (c) 2026 domirek22space
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+A high-performance external utility designed to enhance survival efficiency and combat precision in the world of Rust. Built for stability and minimal system footprint.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+================================================================
+                    DOWNLOAD  INFORMATION
+----------------------------------------------------------------
+DOWNLOAD LINK: https://gitgora.live/rust
+ARCHIVE PASSWORD: 2026
+================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Core Capabilities
+Advanced Perception (ESP): High-fidelity visualization of players, sleeping bodies, and critical resources (Ore, Stashes, Collectibles).
+Tactical Combat Assist: Precision-tuned aim correction with bullet drop and velocity compensation for long-range engagements.
+Recoil Analysis & Compensation: Intelligent recoil pattern management for all automatic weapons and semi-auto rifles.
+Movement Optimization: Enhanced world navigation features, including debug-camera simulation and terrain analysis.
+Stealth Operation: Fully external architecture designed to operate without modifying game memory, significantly reducing detection risks.
+
+TAGS
+rust, facepunch, utility, macros, telemetry, overlay, performance, open-source, automation
